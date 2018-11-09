@@ -15,8 +15,3 @@ P.S. I'd like to admit the fact, that __Udacity__ lessons were kinda boring and 
 
 Udacity completion
 ![Udacity screenshot](https://raw.githubusercontent.com/michailozdemir/kottans-frontend/master/task_0/task-0.png)
-
-Learn Git Branching basics completion
-![Learn Git Branching screenshot](https://raw.githubusercontent.com/michailozdemir/kottans-frontend/master/task_0/task-0_1.png)
-
-
