@@ -1,6 +1,5 @@
 # :cat: Kottans Front-End Course
-Repository created for kottans frontend course. Will be filled with tasks for this course and my own impression about them.
-https://github.com/kottans/frontend
+Repository created for [kottans frontend course](https://github.com/kottans/frontend). Will be filled with tasks for this course and my own impression about them.
 
 ### Task 0 - Git and GitHub :heavy_check_mark:
 (https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
